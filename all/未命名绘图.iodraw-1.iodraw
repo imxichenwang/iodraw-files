@@ -46,8 +46,8 @@
         <mxCell id="x7lTAdKmobHk9s1fvkKs-18" value="T" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="100" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="x7lTAdKmobHk9s1fvkKs-19" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="370" width="80" height="30" as="geometry" />
+        <mxCell id="x7lTAdKmobHk9s1fvkKs-19" value="T,Fx,Fy,Fz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="370" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
