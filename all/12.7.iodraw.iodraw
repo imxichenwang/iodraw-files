@@ -137,9 +137,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x7lTAdKmobHk9s1fvkKs-76" value="解耦过程" style="swimlane;startSize=0;verticalAlign=bottom;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="780" y="90" width="90" height="30" as="geometry">
-            <mxRectangle x="780" y="90" width="500" height="370" as="alternateBounds" />
+        <mxCell id="x7lTAdKmobHk9s1fvkKs-76" value="解耦过程" style="swimlane;startSize=0;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="720" y="90" width="570" height="390" as="geometry">
+            <mxRectangle x="780" y="90" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x7lTAdKmobHk9s1fvkKs-21" value="测得T与Fz" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="x7lTAdKmobHk9s1fvkKs-76">
