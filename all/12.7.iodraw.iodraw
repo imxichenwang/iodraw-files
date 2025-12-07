@@ -138,7 +138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x7lTAdKmobHk9s1fvkKs-76" value="解耦过程" style="swimlane;startSize=0;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="720" y="90" width="490" height="390" as="geometry">
+          <mxGeometry x="720" y="90" width="480" height="370" as="geometry">
             <mxRectangle x="720" y="90" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
