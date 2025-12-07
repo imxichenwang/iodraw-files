@@ -77,7 +77,7 @@
             <mxPoint y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x7lTAdKmobHk9s1fvkKs-11" value="聚合物温度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x7lTAdKmobHk9s1fvkKs-11" value="温度敏感" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="120" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x7lTAdKmobHk9s1fvkKs-13" value="强度变化的磁场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
