@@ -22,6 +22,9 @@
         <mxCell id="x7lTAdKmobHk9s1fvkKs-7" value="circular halbach magnetic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="210" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="x7lTAdKmobHk9s1fvkKs-8" value="dragon skin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
