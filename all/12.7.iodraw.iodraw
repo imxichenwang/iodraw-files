@@ -162,7 +162,7 @@
         <mxCell id="x7lTAdKmobHk9s1fvkKs-60" value="20-80℃内±0.5℃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="x7lTAdKmobHk9s1fvkKs-63">
           <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x7lTAdKmobHk9s1fvkKs-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="x7lTAdKmobHk9s1fvkKs-63">
+        <mxCell id="x7lTAdKmobHk9s1fvkKs-61" value="0.01N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="x7lTAdKmobHk9s1fvkKs-63">
           <mxGeometry x="40" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7lTAdKmobHk9s1fvkKs-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="x7lTAdKmobHk9s1fvkKs-63">
