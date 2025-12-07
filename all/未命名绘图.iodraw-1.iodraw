@@ -110,9 +110,6 @@
         <mxCell id="x7lTAdKmobHk9s1fvkKs-33" value="根据T，Fz解耦" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x7lTAdKmobHk9s1fvkKs-47" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="190" width="200" height="200" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
