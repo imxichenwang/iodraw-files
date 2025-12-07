@@ -37,7 +37,7 @@
         <mxCell id="x7lTAdKmobHk9s1fvkKs-14" value="初步增大" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="300" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x7lTAdKmobHk9s1fvkKs-15" value="3d hall传感" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x7lTAdKmobHk9s1fvkKs-15" value="3d 磁场传感" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="390" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
