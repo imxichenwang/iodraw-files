@@ -175,6 +175,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="x7lTAdKmobHk9s1fvkKs-80" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="60" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
