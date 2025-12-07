@@ -28,11 +28,19 @@
         <mxCell id="x7lTAdKmobHk9s1fvkKs-10" value="霍尔传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="390" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="x7lTAdKmobHk9s1fvkKs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7lTAdKmobHk9s1fvkKs-11" target="x7lTAdKmobHk9s1fvkKs-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x7lTAdKmobHk9s1fvkKs-11" value="聚合物温度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="120" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x7lTAdKmobHk9s1fvkKs-13" value="正弦变化的磁场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="210" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x7lTAdKmobHk9s1fvkKs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x7lTAdKmobHk9s1fvkKs-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="x7lTAdKmobHk9s1fvkKs-14" value="面积初步增大" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="300" width="110" height="40" as="geometry" />
@@ -53,7 +61,7 @@
           <mxGeometry x="590" y="280" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x7lTAdKmobHk9s1fvkKs-21" value="测得T与Fz" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
