@@ -144,6 +144,9 @@
         <mxCell id="x7lTAdKmobHk9s1fvkKs-56" value="Mr方向与大小" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x7lTAdKmobHk9s1fvkKs-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
