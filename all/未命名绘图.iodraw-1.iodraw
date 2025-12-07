@@ -79,10 +79,10 @@
         <mxCell id="x7lTAdKmobHk9s1fvkKs-14" value="面积初步增大" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="300" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x7lTAdKmobHk9s1fvkKs-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="x7lTAdKmobHk9s1fvkKs-15" target="x7lTAdKmobHk9s1fvkKs-33">
+        <mxCell id="x7lTAdKmobHk9s1fvkKs-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="x7lTAdKmobHk9s1fvkKs-19" target="x7lTAdKmobHk9s1fvkKs-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1190" y="410" />
+              <mxPoint x="1190" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -95,9 +95,6 @@
         <mxCell id="x7lTAdKmobHk9s1fvkKs-18" value="T" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="100" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="x7lTAdKmobHk9s1fvkKs-19" value="T,Fx,Fy,Fz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="370" width="80" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="x7lTAdKmobHk9s1fvkKs-20" value="Fz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="280" width="30" height="20" as="geometry" />
         </mxCell>
@@ -109,6 +106,16 @@
         </mxCell>
         <mxCell id="x7lTAdKmobHk9s1fvkKs-33" value="根据T，Fz解耦" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x7lTAdKmobHk9s1fvkKs-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="x7lTAdKmobHk9s1fvkKs-15" target="x7lTAdKmobHk9s1fvkKs-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="410" as="sourcePoint" />
+            <mxPoint x="1190" y="260" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x7lTAdKmobHk9s1fvkKs-19" value="T,Fx,Fy,Fz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="390" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
