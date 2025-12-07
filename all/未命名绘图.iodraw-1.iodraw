@@ -107,7 +107,7 @@
         <mxCell id="x7lTAdKmobHk9s1fvkKs-21" value="测得T与Fz" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x7lTAdKmobHk9s1fvkKs-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x7lTAdKmobHk9s1fvkKs-33">
+        <mxCell id="x7lTAdKmobHk9s1fvkKs-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7lTAdKmobHk9s1fvkKs-33" target="x7lTAdKmobHk9s1fvkKs-56">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1340" y="230" as="targetPoint" />
           </mxGeometry>
@@ -140,6 +140,9 @@
         </mxCell>
         <mxCell id="x7lTAdKmobHk9s1fvkKs-49" value="T,Fx,Fy,Fz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x7lTAdKmobHk9s1fvkKs-56" value="Mr" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
