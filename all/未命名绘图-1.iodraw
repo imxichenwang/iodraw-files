@@ -13,8 +13,11 @@
         <mxCell id="Y7b1nhW1PII7jCEZKn80-2" value="在核心侧面涂电极" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y7b1nhW1PII7jCEZKn80-3" value="封装磁性核心" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y7b1nhW1PII7jCEZKn80-3" value="封装磁性核心层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7b1nhW1PII7jCEZKn80-4" value="粘结电极与凝胶" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
