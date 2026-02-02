@@ -8,13 +8,13 @@
           <mxGeometry x="950" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y7b1nhW1PII7jCEZKn80-1" value="在磁性层顶部印刷电极" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="540" width="139" height="60" as="geometry" />
+          <mxGeometry x="940.5" y="620" width="139" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y7b1nhW1PII7jCEZKn80-2" value="在核心侧面涂电极" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1250" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y7b1nhW1PII7jCEZKn80-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
