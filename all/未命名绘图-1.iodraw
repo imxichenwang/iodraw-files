@@ -7,8 +7,8 @@
         <mxCell id="W0ZNE69XXRWyq0gID5aQ-5" value="制作磁性层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y7b1nhW1PII7jCEZKn80-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1121" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="Y7b1nhW1PII7jCEZKn80-1" value="在磁性层顶部印刷电极" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="540" width="139" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
